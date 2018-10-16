@@ -1,2 +1,2 @@
 FILESEXTRAPATHS_prepend := "${THISDIR}/${PN}:"
-PACKAGECONFIG = "use-egl component-build proprietary-codecs"
+PACKAGECONFIG = "component-build"
